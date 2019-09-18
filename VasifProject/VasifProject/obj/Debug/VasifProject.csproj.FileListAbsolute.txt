@@ -1,0 +1,16 @@
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\VasifProject.exe.config
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\VasifProject.exe
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\VasifProject.pdb
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\EntityFramework.dll
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\EntityFramework.xml
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.Properties.Resources.resources
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.csproj.CopyComplete
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.exe
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.pdb
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.Migrations.first.resources
+C:\Users\sattar\Desktop\P112\C#\20190918\VasifProject\VasifProject\obj\Debug\VasifProject.Form1.resources
